@@ -31,9 +31,9 @@ pip install -r requirements.txt
 touch .env
 ```
 
-Создайте Telegram-бота с помощью [@BotFather](https://telegram.me/BotFather). В процессе вы получите API-токен вида: `0123456789:2VDINHxFYJI2Ibg2TbncYYIeSzAAEq04UBZ`. Создайте в файле **.env** константу TOKEN и установите ей значение полученного токена: 
+Создайте Telegram-бота с помощью [@BotFather](https://telegram.me/BotFather). В процессе вы получите API-токен вида: `0000000000:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`. Создайте в файле **.env** константу TOKEN и установите ей значение полученного токена: 
 ```
-TOKEN=0123456789:2VDINHxFYJI2Ibg2TbncYYIeSzAAEq04UBZ
+TOKEN=0000000000:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 Запустите работу бота в командной строке:
 ```
